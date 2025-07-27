@@ -17,7 +17,7 @@ This repo is my way of breaking things down into small, visual, and practical no
 If you find something useful, confusing, or want to suggest improvements, feel free to reach out!
 
 Contact Me:
-💻 Follow me on GitHub
-💬 Or open an issue on this repo
-🎥 Follow me on TikTok  [(naz_can_code)](https://www.tiktok.com/@naz_can_code?_t=ZN-8yNhJ26KvQc&_r=1)
-🌐 Follow me on LinkedIn  [(Nazish Khalid)](https://www.linkedin.com/in/nazishkhalid11/)
+💻 Follow me on GitHub <br>
+💬 Or open an issue on this repo <br>
+🎥 Follow me on TikTok  [(naz_can_code)](https://www.tiktok.com/@naz_can_code?_t=ZN-8yNhJ26KvQc&_r=1) <br>
+🌐 Follow me on LinkedIn  [(Nazish Khalid)](https://www.linkedin.com/in/nazishkhalid11/) <br>
